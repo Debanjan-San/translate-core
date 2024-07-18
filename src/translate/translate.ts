@@ -1,4 +1,4 @@
-import { utils } from '../Utils'
+import { utils } from '../utils'
 import { IResponce } from '../types/types'
 
 export class Translate {
