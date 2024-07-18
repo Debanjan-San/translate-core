@@ -1,0 +1,39 @@
+{
+    "name": "translate-core",
+    "version": "0.0.1",
+    "description": "A powerful language translation package that supports multiple languages using Google's Translator API. Easily translate text between various languages with this simple and efficient package.",
+    "main": "dist/index.js",
+    "module": "dist/index.mjs",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "tsup",
+        "format": "prettier --write --config .prettierrc.json \"src/**/*.ts\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Debanjan-San/translate-core.git"
+      },
+    "bugs": {
+        "url": "https://github.com/Debanjan-San/translate-core/issues"
+      },
+    "keywords": [
+        "translation",
+        "language",
+        "translator",
+        "multilingual",
+        "internationalization",
+        "google",
+        "google-translate"
+    ],
+    "author": "Debanjan Das",
+    "license": "MIT",
+    "dependencies": {
+        "axios": "^1.7.2",
+        "prettier": "^3.3.3"
+    },
+    "devDependencies": {
+        "@types/node": "^20.14.11",
+        "tsup": "^8.1.2",
+        "typescript": "^5.5.3"
+    }
+}
