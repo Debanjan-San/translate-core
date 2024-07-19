@@ -1,6 +1,6 @@
 {
     "name": "translate-core",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "A powerful language translation package that supports multiple languages using Google's Translator API. Easily translate text between various languages with this simple and efficient package.",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
