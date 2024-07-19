@@ -12,10 +12,10 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/Debanjan-San/translate-core.git"
-      },
+    },
     "bugs": {
         "url": "https://github.com/Debanjan-San/translate-core/issues"
-      },
+    },
     "keywords": [
         "translation",
         "language",
